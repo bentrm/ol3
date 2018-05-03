@@ -1,0 +1,18 @@
+---
+layout: example.html
+title: Nominatim Search
+shortdesc: Search for places via the Nominatim Search API.
+docs: >
+  The example shows how to use the Nominatim Search API to search OSM data and
+  parse the results using `ol.format.NominatimJSONSearch`. `importance` of
+  search results has been used to add a contextual style to the vector features.
+  Lower resolutions use the result items `display_name` to label the search results.
+
+  Please mind the [Nominatim Usage Policy](https://wiki.openstreetmap.org/wiki/Nominatim)
+  interacting with the service.
+tags: "search, openstreetmap, nominatim"
+---
+<div id="map" class="map"></div>
+<input type="text" id="q" value="">
+<button type="button" id="search">Search</button>
+<label id="result-count"></label>
