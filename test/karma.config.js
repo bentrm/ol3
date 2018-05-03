@@ -39,7 +39,7 @@ module.exports = function(karma) {
       }, {
         pattern: path.resolve(__dirname, './test-extensions.js')
       }, {
-        pattern: '**/*.test.js'
+        pattern: '**/nominatim.test.js'
       }, {
         pattern: '**/*',
         included: false,

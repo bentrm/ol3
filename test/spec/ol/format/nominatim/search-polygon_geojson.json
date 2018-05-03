@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "133450057",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": "276464918",
+    "boundingbox": [
+      "52.5274603",
+      "52.5281543",
+      "13.7548084",
+      "13.7555678"
+    ],
+    "lat": "52.527955",
+    "lon": "13.7552140054313",
+    "display_name": "Platz der Befreiung, Fredersdorf Nord, Fredersdorf-Vogelsdorf, Landkreis Märkisch-Oderland, Brandenburg, 15370, Deutschland",
+    "class": "leisure",
+    "type": "park",
+    "importance": 0.3375,
+    "geojson": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            13.7548084,
+            52.5274951
+          ],
+          [
+            13.7553579,
+            52.5274603
+          ],
+          [
+            13.7553821,
+            52.5274806
+          ],
+          [
+            13.7554461,
+            52.5277859
+          ],
+          [
+            13.7554836,
+            52.5277836
+          ],
+          [
+            13.7555678,
+            52.5281241
+          ],
+          [
+            13.7549426,
+            52.5281543
+          ],
+          [
+            13.7548084,
+            52.5274951
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "place_id": "75338316",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": "23925122",
+    "boundingbox": [
+      "52.434465",
+      "52.4350058",
+      "13.5425053",
+      "13.5432394"
+    ],
+    "lat": "52.434465",
+    "lon": "13.5432394",
+    "display_name": "Platz der Befreiung, Adlershof, Treptow-Köpenick, Berlin, 12489, Deutschland",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.325,
+    "geojson": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          13.5432394,
+          52.434465
+        ],
+        [
+          13.5425053,
+          52.4350058
+        ]
+      ]
+    }
+  },
+  {
+    "place_id": "159203122",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": "396058970",
+    "boundingbox": [
+      "53.0601564",
+      "53.0608434",
+      "14.2839591",
+      "14.2851457"
+    ],
+    "lat": "53.0604999",
+    "lon": "14.2845524",
+    "display_name": "Platz der Befreiung, Zentrum, Schwedt/Oder, Landkreis Uckermark, Brandenburg, 16303, Deutschland",
+    "class": "highway",
+    "type": "pedestrian",
+    "importance": 0.325,
+    "geojson": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            14.2839591,
+            53.0604683
+          ],
+          [
+            14.2843847,
+            53.0601564
+          ],
+          [
+            14.2851457,
+            53.0605315
+          ],
+          [
+            14.2847201,
+            53.0608434
+          ],
+          [
+            14.2839591,
+            53.0604683
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "place_id": "78055850",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": "30487209",
+    "boundingbox": [
+      "51.2018361",
+      "51.2024911",
+      "11.1218316",
+      "11.1220293"
+    ],
+    "lat": "51.2022064",
+    "lon": "11.1218454",
+    "display_name": "Platz der Befreiung, Scherndorf, Weißensee, Landkreis Sömmerda, Thüringen, 99631, Deutschland, Europa",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.325,
+    "geojson": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          11.1220293,
+          51.2018361
+        ],
+        [
+          11.1218454,
+          51.2022064
+        ],
+        [
+          11.1218419,
+          51.202243
+        ],
+        [
+          11.12185,
+          51.2022862
+        ],
+        [
+          11.1218819,
+          51.2023818
+        ],
+        [
+          11.1218787,
+          51.2024185
+        ],
+        [
+          11.1218316,
+          51.2024911
+        ]
+      ]
+    }
+  }
+]
